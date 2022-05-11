@@ -1,4 +1,5 @@
 * For n pfx files
-	* ex
-	* ex
+	* create a folder with the pfx file name
+	* extract to the folder
+	* additionally, seperate certs from chain
 
