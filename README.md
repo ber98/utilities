@@ -1,1 +1,1 @@
-# Extracts contents of *n* pfx files to *n* folders. The folder names are the same as the pfx files
+# Miniature utilities that simplify devops work
